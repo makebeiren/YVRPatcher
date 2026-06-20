@@ -1,3 +1,4 @@
+<img width="256" height="256" alt="YVRPatcher-logo" src="https://github.com/user-attachments/assets/ccce9b41-04c7-44b7-9421-01580675345c" />
 # YVRPatcher
 ﻿
 YVRPatcher是一款基于QuestPatcher图形用户界面的模组安装工具，本版本为YVR的beatsaber进行了适配
